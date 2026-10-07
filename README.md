@@ -4,7 +4,7 @@
 
 **Full-stack developer, based near Ghent, Belgium**
 
-<sub>MAGNA CUM LAUDE, CLASS OF 2026 · OPEN TO NEW OPPORTUNITIES</sub>
+<sub>OPEN TO NEW OPPORTUNITIES</sub>
 
 [Portfolio](https://maximclaeys.vercel.app) · [LinkedIn](https://www.linkedin.com/in/maxim-claeys-871404237) · [Email](mailto:maximclaeys1409@gmail.com)
 
