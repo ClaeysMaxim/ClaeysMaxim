@@ -27,5 +27,3 @@ Selected work, including private projects, is on the [portfolio](https://maximcl
 **Tooling** Docker · Git · Vite · Figma
 
 ---
-
-<sub>*Corrections:* an earlier edition of this page listed the author as "a student @Arteveldehogeschool". He has since graduated.</sub>
